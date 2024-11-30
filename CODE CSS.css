@@ -1,0 +1,58 @@
+body { background-image: url(BG.jpg.jpg); 
+	}
+hr{color:purple;
+	font-weight:bold}
+#IMGONE{ float: justify; 
+	width: 442px;
+	height: 300px;
+	}
+
+#IMGTWO{ margin: 2; 
+	width: 443px;
+	height: 300px;
+	}
+
+#IMGTHREE{ float: right; 
+	width: 442px;
+	height: 300px;
+	}
+
+#IMGFOUR{ float: left; 
+	width: 442px;
+	height: 300px;
+	}
+
+#IMGFIVE{ margin: 2; 
+	width: 443px;
+	height: 300px;
+	}
+#IMGSIX{ float: right; 
+	width: 442px;
+	height: 300px;
+	}
+
+#floatright {text-align: right;
+	
+ }
+
+#floatcenter {text-align: center; 
+	font-size:100% ;
+ }
+
+#floatleft {text-align  : left; 
+	font-size:100%;
+ }
+
+h1 {
+  color: black;
+  text-align: center;
+ background-color: khaki;
+}
+
+a:link { color: blue; text-decoration: underline; } 
+a:visited { color: purple; text-decoration: underline; }
+a:hover { color: yellow; text-decoration: none; } 
+a:active { color: red; text-decoration: underline; } 
+
+span{ color:purple; text-decoration: underline;}
+
